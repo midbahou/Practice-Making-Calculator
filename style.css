@@ -18,3 +18,11 @@ td:hover {
     background-color: lightcoral;
     color: white;
 }
+
+#operations {
+    background-color: rgb(238, 157, 157);
+}
+
+#info {
+    background-color: rgb(218, 208, 208);
+}
